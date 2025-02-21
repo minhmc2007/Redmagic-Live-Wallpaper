@@ -1,7 +1,7 @@
 # Redmagic Live Wallpaper
 Redmagic live wallpaper port from rm9 series
 
-## Special thank *N3kowarrior* for red magic system apps
+## Special thank *N3kowarrior* for redmagic system apps
 
 ## Previews
 ![preview1](preview1.jpg)
